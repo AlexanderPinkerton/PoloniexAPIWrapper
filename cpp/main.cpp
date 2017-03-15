@@ -1,13 +1,8 @@
 #include <QCoreApplication>
-#include <QDebug>
-#include <QNetworkAccessManager>
-#include <QNetworkRequest>
-#include <QNetworkReply>
+
 #include <iostream>
 
 #include "../hpp/PoloniexClient.hpp"
-
-void sendRequest();
 
 int main(int argc, char *argv[])
 {

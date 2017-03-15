@@ -1,13 +1,5 @@
 #pragma once
 
-#include <QCoreApplication>
-#include <QDebug>
-#include <QNetworkAccessManager>
-#include <QNetworkRequest>
-#include <QNetworkReply>
-#include <QString>
-
-
 #include <iostream>
 #include <string>
 #include <sstream>
